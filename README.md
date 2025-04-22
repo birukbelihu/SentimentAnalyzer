@@ -5,7 +5,7 @@
 <body>
 <h2>Time Server</h2>
 
-<p>A Simple Sentiment Analysis App Using BERT(Bidirectional Encoder Representations From Transformers)</p>
+<p>A Simple Sentiment Analysis App Using <a href="https://huggingface.co/docs/transformers/en/model_doc/bert">BERT(Bidirectional Encoder Representations From Transformers)</a></p>
 
 <p>
 <h2>Features</h2>
