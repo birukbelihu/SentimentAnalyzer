@@ -12,7 +12,7 @@
 
 <ul>
   <li>Highly Customizable</li>
-  <li>Get Sentiement Status
+  <li>Get Sentiment Status
     <ul>
       <li>Very Negative</li>
       <li>Negative</li>
