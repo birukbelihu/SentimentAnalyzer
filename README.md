@@ -38,6 +38,9 @@ git --version
 python --version
 ```
 
+<b>Reminder</b>
+Make Sure You're Using <b>Python Version 3.9-3.12</b>.
+
 Clone The Repository
 
 ```
