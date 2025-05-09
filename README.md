@@ -9,7 +9,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/BirukBelihu/SentimentAnalyzer)
 ![GitHub license](https://img.shields.io/github/license/BirukBelihu/SentimentAnalyzer)
 
-<h2>Time Server</h2>
+<h2>Sentiment Analyzer</h2>
 
 <p>A Simple Sentiment Analysis App Using <a href="https://huggingface.co/docs/transformers/en/model_doc/bert">BERT(Bidirectional Encoder Representations From Transformers)</a></p>
 
