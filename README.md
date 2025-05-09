@@ -27,6 +27,7 @@
       <li>Very Positive</li>
     </ul>
   </li>
+  <li>Simple, Modern GUI</li>
   <li>Sentiment Score With An Indicator</li>
 </ul>
 
