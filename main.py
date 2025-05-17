@@ -42,7 +42,7 @@ def analyze_sentiment():
         "Very Positive": "darkgreen"
     }
 
-    sentiment = sentiment_map[prediction]
+    sentiment = sentiment_map[int(prediction)]
 
     progress_color = color_map.get(sentiment, "gray")
     progress_bar.configure(progress_color=progress_color)
