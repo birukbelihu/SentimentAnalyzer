@@ -77,9 +77,6 @@ python main.py
 
 If You Want Python Tutorials Check My Social Media Pages.
 
-<b>Telegram</b> :- 
-https://t.me/pythondevstutorials
-
 <b>YouTube</b> :- 
 https://youtube.com/@pythondevs?si=_CZxaEBwDkQEj4je
 
